@@ -6,7 +6,7 @@ Previous Game Developer turn Network Engineer
 
 * 🌍  I'm based in Phoenix, AZ
 * 🖥️  See my portfolio at [my site](http://itsblakearm.com)
-* ✉️  You can contact me at [blake@itsblakearm.com](mailto:blake@itsblakearm.com)
+* ✉️  You can contact me at [blake@driftnode.com](mailto:blake@driftnode.com)
 * 🚀  I'm currently working on [Chatting](http://github.com/itsblakearm/Chatting)
 * 🧠  I'm learning Golang
 
