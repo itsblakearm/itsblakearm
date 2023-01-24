@@ -1,14 +1,14 @@
 Hi 👋 My name is Blake
 ======================
 
-Previous Game Developer turn Engineer
+Previous Game Developer turn Systems Engineer
 ---------------------------------------------
 
-* 🌍  I'm based in Phoenix, AZ
-* 🖥️  See my portfolio at [my site](http://itsblakearm.com)
+* 🌍  Catch me in Phoenix, AZ
+* 🖥️  Take a look at my unfinished [site](http://itsblakearm.com)
 * ✉️  You can contact me at [blake@driftnode.com](mailto:blake@driftnode.com)
-* 🚀  I'm currently working on [Driftnode](http://github.com/driftnode)
-* 😎  I'm working on something very, very cool
+* 🚀  President/Lead Developer @ [Driftnode](http://github.com/driftnode)
+* 😎  A very cool project is in the works - be on the lookout!
 
 ### Skills
 
