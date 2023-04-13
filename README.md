@@ -1,7 +1,7 @@
 Hi 👋 My name is Blake
 ======================
 
-Previous Game Developer turn Systems Engineer
+Previous Game Developer turn Software Deployment Architect
 ---------------------------------------------
 
 * 🌍  Catch me in Phoenix, AZ
